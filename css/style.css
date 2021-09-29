@@ -1139,6 +1139,10 @@ ul li{
     margin-top: 23rem;
 }
 
+.fle::before {
+    left: 3.5em;
+}
+
 }
 
 @media (max-width: 325px){
