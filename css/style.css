@@ -1150,3 +1150,9 @@ ul li{
         top: 409rem;
     }
 }
+
+@media (max-width: 295px){
+    .philo-right{
+        top: 422rem;
+    }
+}
